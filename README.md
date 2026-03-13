@@ -10,6 +10,7 @@ A simple C program written in C that calculates the average of student grades an
 - Pass/fail verification
 - Highest grade detection
 - Lowest grade detection
+- Input validation
 
 ## Language
 - C
