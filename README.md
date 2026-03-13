@@ -60,4 +60,4 @@ Notas abaixo da media: 1
 
 ## 👨‍💻 Author
 
-Fernando Miguel Peixoto de Siqueira
+Fernnando Miguel Peixoto de Siqueira
